@@ -36,5 +36,5 @@ Tujuan dari tugas ini adalah untuk mengimplementasikan dan membandingkan efektiv
 
 ## Lampiran
 
-1. **Laporan Lengkap:** Laporan ini (LAPORAN IB.pdf) [cite: 1]menjelaskan detail pseudocode, implementasi, dan analisis hasil perbandingan.
+1. **Laporan Lengkap:** Laporan ini 123140137_123140155_123140206_Tugas 4.pdf menjelaskan detail pseudocode, implementasi, dan analisis hasil perbandingan.
 2. **Video Penjelasan:** Demonstrasi program dan penjelasan alur implementasi serta analisis hasil telah diunggah melalui video YouTube.
